@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+hello hello! nice to see you here github warrior :>✨
 <!--
 **ninzyt/ninzyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
